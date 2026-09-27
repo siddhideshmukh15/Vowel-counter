@@ -32,4 +32,4 @@ This beginner-friendly project counts the number of vowels present in a word or 
   
 ## Author
 
-**Siddhi Deshmukh**
+Siddhi Deshmukh
